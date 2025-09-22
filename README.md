@@ -17,3 +17,14 @@ The game ends when:
 You win 
 You Lose (The AI wins) 
 It's a tie 
+
+---For Matplotlib Sales Data Visualization (Python + Matplotlib) The project visualizes monthly sales data from a CSV file using Matplotlib and pandas. Dataset It includes:
+
+A line plot showing total profit for each month.
+Subplots comparing Bathing Soap and Facewash sales.
+The dataset contains:
+
+Month number
+Sales units for multiple products
+Total units sold
+Total profit
